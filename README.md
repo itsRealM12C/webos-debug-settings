@@ -1,7 +1,7 @@
 # webos-debug-settings
 A kinda working/fanmade Debug Settings app
 
-<img src="https://github.com/itsRealM12C/webos-debug-settings/blob/main/Screenshot_20260109_131807.jpg?raw=true" width="300" height="200">
+<img src="https://github.com/itsRealM12C/webos-debug-settings/blob/main/Screenshot_20260109_131807.jpg?raw=true" width="900" height="800">
 
 IPK: In the releases page.
 
